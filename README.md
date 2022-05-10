@@ -1,4 +1,11 @@
 # flask-appbuilder-twig.herokuapp
+
+reset admin password
+
+```
+flask fab reset-password
+```
+
 ```
 root@chio:~/flask-appbuilder-twig# git add .
 root@chio:~/flask-appbuilder-twig# git commit -am "make it better"
